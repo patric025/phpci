@@ -1,0 +1,10 @@
+b8:
+    database:
+        servers:
+            read: localhost
+            write: localhost
+        name: phpci
+        username: patric
+        password: patric
+phpci:
+    url: 'http://phpcic.com'
